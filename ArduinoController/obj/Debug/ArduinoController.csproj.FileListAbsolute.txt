@@ -1,0 +1,20 @@
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\bin\Debug\ArduinoController.exe.config
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\bin\Debug\ArduinoController.exe
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\bin\Debug\ArduinoController.pdb
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\obj\Debug\ArduinoController.csproj.AssemblyReference.cache
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\obj\Debug\ArduinoController.Form1.resources
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\obj\Debug\ArduinoController.Properties.Resources.resources
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\obj\Debug\ArduinoController.csproj.GenerateResource.cache
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\obj\Debug\ArduinoController.csproj.CoreCompileInputs.cache
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\obj\Debug\ArduinoController.exe
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\Arduino controller\ArduinoController\obj\Debug\ArduinoController.pdb
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\bin\Debug\ArduinoController.exe.config
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\bin\Debug\ArduinoController.exe
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\bin\Debug\ArduinoController.pdb
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Debug\ArduinoController.Form.resources
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Debug\ArduinoController.Properties.Resources.resources
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Debug\ArduinoController.csproj.GenerateResource.cache
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Debug\ArduinoController.csproj.CoreCompileInputs.cache
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Debug\ArduinoController.exe
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Debug\ArduinoController.pdb
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Debug\ArduinoController.csproj.AssemblyReference.cache

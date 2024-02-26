@@ -1,0 +1,10 @@
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\bin\Release\ArduinoController.exe.config
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\bin\Release\ArduinoController.exe
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\bin\Release\ArduinoController.pdb
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Release\ArduinoController.Form.resources
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Release\ArduinoController.Properties.Resources.resources
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Release\ArduinoController.csproj.GenerateResource.cache
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Release\ArduinoController.csproj.CoreCompileInputs.cache
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Release\ArduinoController.exe
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Release\ArduinoController.pdb
+C:\Users\akkay\OneDrive\Documenten\tcs\module8-ies\Project\ArduinoController\obj\Release\ArduinoController.csproj.AssemblyReference.cache
